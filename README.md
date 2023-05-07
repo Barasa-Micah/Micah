@@ -2,6 +2,9 @@
 
 This is my portfolio website showcasing my frontend development skills.
 
+# screenshot
+![](./portfolioscreenshot.pmg)
+
 # Getting Started
 To view my portfolio, simply open the index.html file in your web browser.
 
