@@ -1,6 +1,6 @@
 # Barasa Micah-Portfolio
 
-This is my portfolio website showcasing my frontend development skills.
+This is my portfolio Website showing my skills in Web Design and Development
 
 # screenshot
 ![](./portfolioscreenshot.pmg)
