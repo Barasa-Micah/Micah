@@ -2,8 +2,8 @@
 
 This is my portfolio Website showing my skills in Web Design and Development
 
-# sketch design
-![](./home/moringa/Desktop/README.md/1000028537.jpg]
+# screenshot
+![](./portfolioscreenshot.pmg)
 
 # Getting Started
 To view my portfolio, simply open the index.html file in your web browser.
