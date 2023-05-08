@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(255, 255, 255, ),rgba(133, 24, 206, 0.5)), url(1.jpg);
+    background: beige;
     background-position: center;
     background-size: cover;
     height: 100vh;
